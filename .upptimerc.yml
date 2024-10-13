@@ -36,14 +36,9 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/182899516
   name: WraithNodes
   introTitle: "Welcome to WraithNodes's status page! This status page uses [Upptime](https://github.com/upptime/upptime) to show you real-time data."
-  introMessage: "This status page contains almost everything related to our hosting. The status page is **[fully open-source 😃](https://github.com/wraithnodes.status), so if you want to contribute, I don't see a reason why you shouln't."
+  #introMessage: "This status page contains almost everything related to our hosting. The status page is **[fully open-source 😃](https://github.com/wraithnodes.status), so if you want to contribute, I don't see a reason why you shouln't."
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
     - title: Website
       href: https://wraithnodes.net
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
