@@ -32,7 +32,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.wraithnodes.net
-  # baseUrl: /your-repo-name
+  favicon: https://avatars.githubusercontent.com/u/182899516
   logoUrl: https://avatars.githubusercontent.com/u/182899516
   name: WraithNodes
   introTitle: "Welcome to WraithNodes's status page!"
