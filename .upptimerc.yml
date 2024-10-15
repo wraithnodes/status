@@ -9,6 +9,8 @@ sites:
     #url: https://dash.wraithnodes.net
   #- name: Free Panel
      #url: https://panel.wraithnodes.net
+  - name: Tickets
+    url: https://tickets.wraithnodes.net
   - name: Paid Panel
     url: $PAID_PANEL
   - name: India 1 - Paid
