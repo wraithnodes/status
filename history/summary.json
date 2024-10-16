@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.wraithnodes.net.ico",
     "slug": "tickets",
     "status": "down",
-    "uptime": "85.81%",
-    "uptimeDay": "85.81%",
-    "uptimeWeek": "85.81%",
-    "uptimeMonth": "85.81%",
-    "uptimeYear": "85.81%",
+    "uptime": "85.09%",
+    "uptimeDay": "85.09%",
+    "uptimeWeek": "85.09%",
+    "uptimeMonth": "85.09%",
+    "uptimeYear": "85.09%",
     "time": 2260,
     "timeDay": 2260,
     "timeWeek": 2260,
     "timeMonth": 2260,
     "timeYear": 2260,
     "dailyMinutesDown": {
-      "2024-10-16": 173
+      "2024-10-16": 183
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "$PAID_PANEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-panel",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 374,
-    "timeDay": 285,
-    "timeWeek": 374,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 372,
+    "timeDay": 295,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {
-      "2024-10-16": 0
+      "2024-10-16": 10
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "$IN1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "india-1-paid",
-    "status": "down",
-    "uptime": "97.91%",
-    "uptimeDay": "93.67%",
-    "uptimeWeek": "97.91%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "97.91%",
-    "time": 201,
-    "timeDay": 194,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "status": "up",
+    "uptime": "97.68%",
+    "uptimeDay": "92.95%",
+    "uptimeWeek": "97.68%",
+    "uptimeMonth": "97.68%",
+    "uptimeYear": "97.68%",
+    "time": 200,
+    "timeDay": 192,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {
-      "2024-10-16": 91
+      "2024-10-16": 101
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "singapore-1-paid",
     "status": "down",
-    "uptime": "97.81%",
-    "uptimeDay": "93.36%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "97.81%",
-    "uptimeYear": "97.81%",
+    "uptime": "97.57%",
+    "uptimeDay": "92.63%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "97.57%",
+    "uptimeYear": "97.57%",
     "time": 208,
     "timeDay": 217,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-10-16": 96
+      "2024-10-16": 106
     }
   }
 ]
