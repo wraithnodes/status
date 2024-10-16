@@ -1,7 +1,7 @@
 url: $IN1
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-16T12:50:26.164Z
+status: up
+code: 200
+responseTime: 185
+lastUpdated: 2024-10-16T13:47:48.141Z
 startTime: 2024-10-13T12:57:08.386Z
 generator: Upptime <https://github.com/upptime/upptime>
