@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/tickets.wraithnodes.net.ico",
     "slug": "tickets",
     "status": "down",
-    "uptime": "89.24%",
-    "uptimeDay": "89.24%",
-    "uptimeWeek": "89.24%",
-    "uptimeMonth": "89.24%",
-    "uptimeYear": "89.24%",
+    "uptime": "85.81%",
+    "uptimeDay": "85.81%",
+    "uptimeWeek": "85.81%",
+    "uptimeMonth": "85.81%",
+    "uptimeYear": "85.81%",
     "time": 2260,
     "timeDay": 2260,
     "timeWeek": 2260,
     "timeMonth": 2260,
     "timeYear": 2260,
     "dailyMinutesDown": {
-      "2024-10-16": 126
+      "2024-10-16": 173
     }
   },
   {
@@ -24,18 +24,20 @@
     "url": "$PAID_PANEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-panel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 390,
-    "timeDay": 369,
-    "timeWeek": 390,
-    "timeMonth": 390,
-    "timeYear": 390,
-    "dailyMinutesDown": {}
+    "time": 374,
+    "timeDay": 285,
+    "timeWeek": 374,
+    "timeMonth": 374,
+    "timeYear": 374,
+    "dailyMinutesDown": {
+      "2024-10-16": 0
+    }
   },
   {
     "name": "India 1 - Paid",
@@ -43,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "india-1-paid",
     "status": "down",
-    "uptime": "98.98%",
-    "uptimeDay": "96.93%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "98.98%",
-    "uptimeYear": "98.98%",
+    "uptime": "97.91%",
+    "uptimeDay": "93.67%",
+    "uptimeWeek": "97.91%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "97.91%",
     "time": 201,
     "timeDay": 194,
     "timeWeek": 201,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2024-10-16": 44
+      "2024-10-16": 91
     }
   },
   {
@@ -63,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "singapore-1-paid",
     "status": "down",
-    "uptime": "98.87%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "uptime": "97.81%",
+    "uptimeDay": "93.36%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 208,
     "timeDay": 217,
     "timeWeek": 208,
     "timeMonth": 208,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-10-16": 49
+      "2024-10-16": 96
     }
   }
 ]
