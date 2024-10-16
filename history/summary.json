@@ -1,40 +1,20 @@
 [
   {
-    "name": "Tickets",
-    "url": "https://tickets.wraithnodes.net",
-    "icon": "https://icons.duckduckgo.com/ip3/tickets.wraithnodes.net.ico",
-    "slug": "tickets",
-    "status": "down",
-    "uptime": "78.78%",
-    "uptimeDay": "78.78%",
-    "uptimeWeek": "78.78%",
-    "uptimeMonth": "78.78%",
-    "uptimeYear": "78.78%",
-    "time": 2260,
-    "timeDay": 2260,
-    "timeWeek": 2260,
-    "timeMonth": 2260,
-    "timeYear": 2260,
-    "dailyMinutesDown": {
-      "2024-10-16": 282
-    }
-  },
-  {
     "name": "Paid Panel",
     "url": "$PAID_PANEL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "paid-panel",
     "status": "up",
-    "uptime": "99.39%",
+    "uptime": "99.40%",
     "uptimeDay": "98.09%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "99.39%",
-    "uptimeYear": "99.39%",
-    "time": 380,
-    "timeDay": 341,
-    "timeWeek": 380,
-    "timeMonth": 380,
-    "timeYear": 380,
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
+    "time": 376,
+    "timeDay": 337,
+    "timeWeek": 376,
+    "timeMonth": 376,
+    "timeYear": 376,
     "dailyMinutesDown": {
       "2024-10-16": 27
     }
@@ -45,38 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "india-1-paid",
     "status": "up",
-    "uptime": "96.69%",
+    "uptime": "96.75%",
     "uptimeDay": "89.73%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "96.69%",
-    "uptimeYear": "96.69%",
-    "time": 201,
-    "timeDay": 198,
-    "timeWeek": 201,
-    "timeMonth": 201,
-    "timeYear": 201,
+    "uptimeWeek": "96.75%",
+    "uptimeMonth": "96.75%",
+    "uptimeYear": "96.75%",
+    "time": 200,
+    "timeDay": 196,
+    "timeWeek": 200,
+    "timeMonth": 200,
+    "timeYear": 200,
     "dailyMinutesDown": {
       "2024-10-16": 147
-    }
-  },
-  {
-    "name": "Singapore 1 - Paid",
-    "url": "$SIN1",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "singapore-1-paid",
-    "status": "down",
-    "uptime": "95.42%",
-    "uptimeDay": "85.78%",
-    "uptimeWeek": "95.42%",
-    "uptimeMonth": "95.42%",
-    "uptimeYear": "95.42%",
-    "time": 208,
-    "timeDay": 217,
-    "timeWeek": 208,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {
-      "2024-10-16": 205
     }
   }
 ]
